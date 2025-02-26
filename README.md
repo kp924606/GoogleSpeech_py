@@ -1,5 +1,7 @@
+![](https://img.shields.io/badge/Creater-TCT-FFFF00) |![](https://img.shields.io/badge/development-python-006400) | ![](https://img.shields.io/badge/Version-3.9.21-blue)
+
 # GoogleSpeech
-## gTTS (Google Text-to-Speech) 功能及細節：
+## 1. gTTS (Google Text-to-Speech) 功能及細節：
 gTTS 是一個 Python 套件，它利用 Google 的 Text-to-Speech API（即將文本轉換為語音）來生成語音。
 gTTS 讓開發者可以輕鬆地將文本內容轉換為 MP3 格式的語音檔，並支持多種語言和發音選擇。
 它非常適合用於需要語音回饋的應用程式，如語音助手或語音提示系統。
@@ -21,7 +23,7 @@ gTTS 讓開發者可以輕鬆地將文本內容轉換為 MP3 格式的語音檔�
 ! 但無法設置撥放速度
 ```
 ------
-## pygame 功能及細節：
+## 2. pygame 功能及細節：
 pygame 是一個用於開發 2D 遊戲、音效播放和多媒體應用的 Python 套件。
 它基於 SDL（Simple DirectMedia Layer）來處理圖像、音效和其他多媒體功能。
 它是 Python 社群中最受歡迎的遊戲開發框架之一，因為它簡單易用且功能強大，支持跨平台運行（Windows、macOS 和 Linux）。
@@ -41,3 +43,26 @@ pygame 是一個用於開發 2D 遊戲、音效播放和多媒體應用的 Pytho
 ●跨平台支持：支持在 Windows、Linux、macOS 上運行。
 
 ●簡單的遊戲循環結構：pygame 提供了一個簡單的遊戲循環框架，可以輕鬆地建立遊戲或多媒體應用。
+
+------
+## 3. Install Command：
+Please refer the command as below.
+
+```bash
+pip install pygame
+pip install gTTS
+```
+
+------
+
+## About Me
+Thanks & Best Regards !
+
+蔡承廷
+
+​Senior Engineer of Semiconductor Product/Testing & ​Automation
+
+Email: ​​kp924606@gmail.com
+
+LinkedIn:https://www.linkedin.comin/tsai-cheng-ting/
+
