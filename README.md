@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Creater-TCT-FFFF00) |![](https://img.shields.io/badge/development-python-006400) | ![](https://img.shields.io/badge/Version-3.9.21-blue)
+![](https://img.shields.io/badge/Creater-TCT-FFFF00) ![](https://img.shields.io/badge/development-python-006400) ![](https://img.shields.io/badge/Version-3.9.21-blue)
 
 # GoogleSpeech
 ## 1. gTTS (Google Text-to-Speech) 功能及細節：
